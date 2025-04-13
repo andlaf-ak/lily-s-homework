@@ -1,5 +1,5 @@
 package com.andrealaforgia
 
-fun main() {
-    println("Hello World!")
+fun lilysHomework(arr: Array<Int>): Int {
+   return -999
 }
